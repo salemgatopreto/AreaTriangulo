@@ -1,0 +1,11 @@
+C:\Users\guilherme.hsachetti\source\repos\uc12\Atividade\Atividade\bin\Debug\Atividade.exe.config
+C:\Users\guilherme.hsachetti\source\repos\uc12\Atividade\Atividade\bin\Debug\Atividade.exe
+C:\Users\guilherme.hsachetti\source\repos\uc12\Atividade\Atividade\bin\Debug\Atividade.pdb
+C:\Users\guilherme.hsachetti\source\repos\uc12\Atividade\Atividade\obj\Debug\Atividade.csproj.AssemblyReference.cache
+C:\Users\guilherme.hsachetti\source\repos\uc12\Atividade\Atividade\obj\Debug\Atividade.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilherme.hsachetti\source\repos\uc12\Atividade\Atividade\obj\Debug\Atividade.Form1.resources
+C:\Users\guilherme.hsachetti\source\repos\uc12\Atividade\Atividade\obj\Debug\Atividade.Properties.Resources.resources
+C:\Users\guilherme.hsachetti\source\repos\uc12\Atividade\Atividade\obj\Debug\Atividade.csproj.GenerateResource.cache
+C:\Users\guilherme.hsachetti\source\repos\uc12\Atividade\Atividade\obj\Debug\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.hsachetti\source\repos\uc12\Atividade\Atividade\obj\Debug\Atividade.exe
+C:\Users\guilherme.hsachetti\source\repos\uc12\Atividade\Atividade\obj\Debug\Atividade.pdb
